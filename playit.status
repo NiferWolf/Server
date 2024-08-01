@@ -1,29 +1,44 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722472095342 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722480384078 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472098399 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480387134 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472101458 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480390194 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472104545 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480393248 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472107613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480396303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472110683 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480399357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480402421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480405477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480408539 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -31,547 +46,47 @@ virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472125983 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480417656 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472129040 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480420717 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472132107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480423770 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472135178 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480426823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472138249 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480429878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472141394 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480432932 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472144459 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480435990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472147522 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480439048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472150581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472153648 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472156742 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472159817 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472162896 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472165954 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472169038 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472172099 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472175157 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472178214 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472181275 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472184331 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472187392 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472190465 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472193543 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472196622 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472199693 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472202774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472205851 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472208914 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472211998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472215057 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472218157 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472221231 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472224305 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472227373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472230428 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472233496 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472236604 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472239668 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472242741 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472245799 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472248867 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472251926 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472254982 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472258041 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472261100 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472264157 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472267247 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472270314 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472273380 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472276454 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472279530 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472282586 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472285643 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472288721 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472291800 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472294880 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472297961 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472301040 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472304095 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472307165 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472310262 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472313323 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472316376 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472319434 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472322489 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472325556 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472328619 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472331694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472334774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472337835 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472340894 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472343976 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472347078 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472350147 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472353217 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472356279 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472359338 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472362397 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472365453 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472368514 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472371576 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472374640 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472377710 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472380788 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472383855 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472386916 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472389974 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472393031 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472396090 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472399163 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472402233 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472405305 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472408379 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472411444 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472414529 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472417600 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472420665 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472423739 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472426801 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472429866 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472432927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472435983 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472439042 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472442110 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472445168 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472448243 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472451315 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472454368 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472457436 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480442105 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -579,117 +94,762 @@ virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472466566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480451236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472469631 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480454301 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472472687 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480457353 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472475745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480460408 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472478807 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480463465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472481867 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480466518 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472484923 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480469577 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472487982 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480472634 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472491048 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480475685 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472494118 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480478745 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472497196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480481813 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472500254 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480484882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472503325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480487939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472506388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480490997 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472509457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480494064 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472512523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480497119 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472515580 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480500182 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472518638 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480503237 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472521709 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480506302 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472524778 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480509403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472527837 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480512477 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472530891 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480515543 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472533964 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480518604 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480521658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480524713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480527766 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480530824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480533981 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480537050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480540120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480543203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480546262 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480549324 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480552390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480555451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480558515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480561570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480564623 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480567694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480570758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480573823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480576889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480579948 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480582999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480586079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480589132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480592190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480595240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480598294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480601349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480604402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480607456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480610527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480613582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480616637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480619711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480622778 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480625840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480628899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480631967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480635033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480638093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480641154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480644217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480647289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480650353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480653418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480656486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480659630 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480662689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480665753 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480668812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480671872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480674926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480677983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480681053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480684122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480687177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480690229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480693349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480696403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480699466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480702589 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480705658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480708727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480711793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480714857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480717930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480720993 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480724061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480727134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480730191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480733248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480736305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480739361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480742417 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480745475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480748542 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480751609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480754665 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480757721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480760841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480763904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480766965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480770035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480773097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480776163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480779242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480782306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480785367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480788427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480791487 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480794540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480797600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480800675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480803733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480806803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480809858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480812921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480815982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480819044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480822102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480825155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480828217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480831294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480834348 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480837408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480840465 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480843522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480846581 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480849635 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480852693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480855745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480858810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480861882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480864941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480868005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480871071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480874133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480877194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480880269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480883341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480886409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480889472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480892540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480895599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480898657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480901719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480904786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480907850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480910914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722480913971 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -697,52 +857,37 @@ virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472543215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480923094 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472546271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480926159 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472549324 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480929222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472552382 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480932301 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472555520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480935371 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472558593 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480938432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472561669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472564739 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472567798 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472570860 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480941496 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -750,2111 +895,47 @@ virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472579976 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480950606 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472583033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480953669 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472586090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480956727 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472589159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480959790 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472592216 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480962845 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472595279 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480965915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472598347 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480968969 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472601415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480972024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472604472 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472607528 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472610587 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472613655 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472616720 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472619792 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472622849 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472625918 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472628989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472632057 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472635127 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472638208 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472641282 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472644353 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472647413 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472650482 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472653537 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472656604 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472659669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472662731 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472665793 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472668848 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472671923 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472681045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472684114 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472687185 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472690253 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472693324 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472696393 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472699468 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472702560 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472705627 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472708693 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472711770 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472714834 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472717894 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472720971 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472724040 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472727108 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472730183 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472733238 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472736299 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472739362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472742445 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472745516 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472748579 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472751655 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472754730 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472757787 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472760843 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472763913 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472766986 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472770047 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472773120 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472776195 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472779256 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472782322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472785400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472788460 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472791514 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472794581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472803723 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472806781 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472809842 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472812913 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472815983 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472819047 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472822102 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472825167 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472828226 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472831291 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472834373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472837428 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472840481 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472843552 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472846617 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472849676 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472852748 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472855812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472858868 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472861939 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472865008 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472868065 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472871121 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472874199 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472877271 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472880337 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472883399 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472886467 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472889531 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472892646 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472895708 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472898766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472901836 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472904893 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472907946 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472911019 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472914095 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472917151 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472920216 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472923273 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472926331 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472929403 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472932468 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472935537 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472938611 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472941674 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472944759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472947824 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472950886 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472953948 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472957021 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472960092 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472963148 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472966204 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472969259 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472972325 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472975386 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472978447 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472981506 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472984572 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472987646 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472990708 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472993774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472996829 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472999888 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473002963 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473006026 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473009088 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473012147 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473021279 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473024340 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473027407 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473030479 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473033533 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473036587 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473039645 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473042699 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473045766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473048835 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473051913 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473054983 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473058052 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473061119 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473064193 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473067257 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473070324 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473073389 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473076444 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473079496 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473082575 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473085646 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473088702 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473091759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473094842 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473097909 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473100967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473104022 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473107096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473110164 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473113236 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473116318 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473119395 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473122463 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473125525 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473128580 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473131672 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473134745 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473137817 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473140885 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473143941 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473147000 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473150077 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473153149 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473156205 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473159262 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473162316 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473165373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473168431 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473171490 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473174547 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473177601 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473180666 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473183811 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473186869 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473189923 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473192992 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473196053 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473199187 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473202259 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473205334 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473208387 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473211458 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473214513 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473217573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473220628 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473223684 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473226751 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473229831 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473232890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473235953 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473239009 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473242069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473245120 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473248190 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473251259 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473254317 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473257370 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473260429 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473263484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473272633 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473275701 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473278757 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473281817 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473284882 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473287952 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473291012 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473294066 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473297140 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473300206 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473303264 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473306323 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473309389 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473312460 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473315522 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473318583 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473321635 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473324691 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473327756 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473330816 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473333886 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473336962 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473340019 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473343075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473346142 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473349203 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473352270 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473355335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473358410 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473361483 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473364538 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473367599 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473370664 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473373722 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473376785 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473379839 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473382899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473385953 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473389028 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473392088 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473395150 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473398209 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473401274 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473404330 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473407385 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473410453 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473413518 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473416586 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473419654 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473422719 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473425783 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473428850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473431914 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473434977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473438074 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473441141 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473444213 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473447274 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473450348 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473453408 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473456477 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473459570 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473462632 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473471752 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473474813 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473477871 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473480929 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473483983 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473487061 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473490146 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473493235 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473496299 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473499378 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473502448 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473505504 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473508559 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473517683 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473520765 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473523839 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473526899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473529967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473533033 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473536090 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473539144 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473542205 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473545264 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473548331 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473551404 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473554462 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473557523 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473560621 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473563694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473566757 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473569855 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473572927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473575994 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473579061 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473582126 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473585185 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473588238 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473591315 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473594386 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473597457 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473600522 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473603581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473606649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473609709 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473612766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473621874 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473624931 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473627991 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473631051 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473634113 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473637168 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473640276 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473643345 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473646407 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473649476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473652539 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473655639 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473658710 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473661859 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473664945 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473668009 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473671073 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473674192 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473677258 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473680322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473683385 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473686441 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473689517 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473692583 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473695647 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473698704 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473701777 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473704843 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473707917 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473710987 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473714045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473717107 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473720170 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473723236 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473726301 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473729364 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473732433 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473735502 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473738575 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473741642 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473744709 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473747773 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473750841 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473753908 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473756975 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473760031 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473763093 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473766152 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473769211 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473772284 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473775349 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473778418 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473781488 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473784557 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473787632 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473790697 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473793766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473796850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473799915 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473802976 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473806036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473809105 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722473818232 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473821291 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473824348 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473827403 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473830465 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473833522 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473836580 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473839636 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473842709 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473845767 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473848832 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473851889 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473854952 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473858024 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473861096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473864156 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473867234 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473870307 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473873376 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473876450 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473879522 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473882578 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473885662 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473888771 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473891831 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473894891 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473897952 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473901014 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-virtual-diary.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722473904080 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722480975077 tunnel running, 1 tunnels registered
 
 
 TUNNELS
