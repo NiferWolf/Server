@@ -82,7 +82,7 @@
           "agent_id": "51e46883-edc0-41d1-81e7-10c1f8ca12dd",
           "agent_name": "NiWorld",
           "local_ip": "127.0.0.1",
-          "local_port": 3072
+          "local_port": 3191
         },
         "type": "agent"
       },
